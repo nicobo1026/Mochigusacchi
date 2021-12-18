@@ -1,4 +1,8 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":893.4545454545455,"scrollY":502.90909090909093}
+{"id":1,"expanded":false,"name":"初期化MAP","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":2,"expanded":false,"name":"セーブマップ","order":2,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":3,"expanded":false,"name":"デバッグ","order":3,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":4,"expanded":false,"name":"保留","order":4,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":5,"expanded":false,"name":"メインメニュー","order":5,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999}
 ]

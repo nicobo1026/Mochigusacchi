@@ -1,8 +1,10 @@
 [
 null,
-{"id":1,"expanded":false,"name":"初期化MAP","order":1,"parentId":0,"scrollX":567,"scrollY":456.5},
-{"id":2,"expanded":false,"name":"セーブマップ","order":2,"parentId":0,"scrollX":567,"scrollY":456.5},
+{"id":1,"expanded":false,"name":"初期化MAP","order":1,"parentId":0,"scrollX":411.5,"scrollY":456.5},
+{"id":2,"expanded":false,"name":"セーブマップ","order":2,"parentId":0,"scrollX":411.5,"scrollY":456.5},
 {"id":3,"expanded":false,"name":"デバッグ","order":3,"parentId":0,"scrollX":567,"scrollY":456.5},
-{"id":4,"expanded":false,"name":"保留","order":4,"parentId":0,"scrollX":567,"scrollY":456.5},
-{"id":5,"expanded":false,"name":"メインメニュー","order":5,"parentId":0,"scrollX":567,"scrollY":456.5}
+{"id":4,"expanded":false,"name":"保留","order":4,"parentId":0,"scrollX":411.5,"scrollY":456.5},
+{"id":5,"expanded":false,"name":"メインメニュー","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":true,"name":"おでかけ先","order":6,"parentId":0,"scrollX":411.5,"scrollY":456.5},
+{"id":7,"expanded":false,"name":"公園","order":7,"parentId":6,"scrollX":832,"scrollY":640}
 ]

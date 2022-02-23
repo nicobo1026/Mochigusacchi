@@ -25,7 +25,7 @@
                 this.y = this.y = this._positionType * (Graphics.boxHeight - this.height) / 2;
                 break;
             case 2:
-                this.y = Graphics.boxHeight - 166;
+                this.y = Graphics.boxHeight - 240;
                 break;
             }
         
